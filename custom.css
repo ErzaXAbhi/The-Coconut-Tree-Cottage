@@ -272,7 +272,7 @@ nav#main ul li a:not(.button) {
 }
 
 .item:nth-child(2) .item-inner {
-  background-image: urlgallery_2.jpg);
+  background-image: url(gallery_2.jpg);
 }
 .item:nth-child(3) .item-inner {
   background-image: url(gallery_3.jpg);
