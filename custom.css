@@ -267,42 +267,42 @@ nav#main ul li a:not(.button) {
 
 .item-inner {
   background-size: cover;
-  background-image: url(../img/gallery_1.jpg);
+  background-image: url(gallery_1.jpg);
   padding-top: calc(100% / (16 / 9));
 }
 
 .item:nth-child(2) .item-inner {
-  background-image: url(../img/gallery_2.jpg);
+  background-image: urlgallery_2.jpg);
 }
 .item:nth-child(3) .item-inner {
-  background-image: url(../img/gallery_3.jpg);
+  background-image: url(gallery_3.jpg);
 }
 .item:nth-child(4) .item-inner {
-  background-image: url(../img/gallery_4.jpg);
+  background-image: url(gallery_4.jpg);
 }
 .item:nth-child(5) .item-inner {
-  background-image: url(../img/gallery_5.jpg);
+  background-image: url(gallery_5.jpg);
 }
 .item:nth-child(6) .item-inner {
-  background-image: url(../img/gallery_6.jpg);
+  background-image: url(gallery_6.jpg);
 }
 .item:nth-child(7) .item-inner {
-  background-image: url(../img/gallery_7.jpg);
+  background-image: url(gallery_7.jpg);
 }
 .item:nth-child(8) .item-inner {
-  background-image: url(../img/gallery_8.jpg);
+  background-image: url(gallery_8.jpg);
 }
 .item:nth-child(9) .item-inner {
-  background-image: url(../img/gallery_9.jpg);
+  background-image: url(gallery_9.jpg);
 }
 .item:nth-child(10) .item-inner {
-  background-image: url(../img/gallery_10.jpg);
+  background-image: url(gallery_10.jpg);
 }
 .item:nth-child(11) .item-inner {
-  background-image: url(../img/gallery_11.jpg);
+  background-image: url(gallery_11.jpg);
 }
 .item:nth-child(12) .item-inner {
-  background-image: url(../img/gallery_12.jpg);
+  background-image: url(gallery_12.jpg);
 }
 
 @media screen and (min-width: 480px) {
